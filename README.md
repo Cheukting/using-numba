@@ -5,4 +5,5 @@ In this workshop, we gonna go through 3 notebooks (plus an optional NumPy tutori
 ### Enviroment requirement
 
 Jupyter notebook/ lab etc - to run the notebooks
+
 Numba, NumPy, Matplotlub - we can install them in the notebooks
