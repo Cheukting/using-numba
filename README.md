@@ -4,9 +4,11 @@ In this workshop, we gonna go through 3 notebooks (plus an optional NumPy tutori
 
 ### Enviroment requirement
 
+Recommended Python version: 3.10
+
 Jupyter notebook/ lab etc - to run the notebooks
 
-Numba, NumPy, Matplotlub - we can install them in the notebooks
+Numba, NumPy, Matplotlub, Requests - we can install them in the notebooks
 
 ### Presentation slides
 
